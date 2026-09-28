@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Naqsha - 2D Floor Plan CAD",
+  "description": "Modern 2D floor plan and blueprint drawing app with walls, doors, windows, curved walls, and feet/inch measurements in Roman Urdu and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
